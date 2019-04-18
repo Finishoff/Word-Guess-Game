@@ -8,10 +8,15 @@ Array of words is used as a wordbank for correct answers to be compared to.
 Error handing added "toLowerCase" and guessed words already to prevent same guesses countdown.
 
 How basiclly works:
+
 Array of words (bank)
+
 Pick a random word
+
 Setup answer array
+
 Guess from the player (does check to see remaining letters and tries remaining)
+
 Show answer and prompt of win or gameover is shown.
 
 
