@@ -7,7 +7,7 @@ Array of words is used as a wordbank for correct answers to be compared to.
 [Math.floor(Math.random() * words.length)]; is essential to select a different word each session.
 Error handing added "toLowerCase" and guessed words already to prevent same guesses countdown.
 
-# How basiclly works:
+# How basically works:
 
 * Array of words (bank)
 
